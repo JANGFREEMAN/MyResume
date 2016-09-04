@@ -9,7 +9,8 @@
 # 个人信息
 
  - 张勇翔/男/1992 
- - 本科/闽江学院/通信工程 
+ - 本科/闽江学院/通信工程
+ - 语言水平：CET-4
  - 工作年限：1.5年
  - Github：https://github.com/JANGFREEMAN
  - 期望职位：Java中级程序员
@@ -59,9 +60,9 @@ T钱包app是一款手机金融类的理财软件，在这里用户能够掌上�
 
 以下均为我熟练使用的技能
 
-- Web开发：Java/Node/JS/
+- Web开发：Java/Node/JS
 - Web框架：Struts2/SpringMVC/MyBatis/Dubbo/zookeeper
-- 前端框架：Bootstrap/JsRender/Jquery/HTML5/
+- 前端框架：Bootstrap/JsRender/Jquery/HTML5
 - 数据库相关：MySQL/Redis
 - 版本管理和自动化部署工具：Svn/Git/jenkins
 - 单元测试：Junit
