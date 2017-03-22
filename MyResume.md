@@ -82,10 +82,10 @@
 
 ## 开源项目
 
- - [轻量级知乎爬虫工具](https://github.com/JANGFREEMAN/zhihu)
- - [轻量级表单验证插件](https://github.com/JANGFREEMAN/jqueryvalid)
- - [jsRender简易教程](https://github.com/JANGFREEMAN/jsrender)
- - [博客系统](https://github.com/JANGFREEMAN/blog)
+ - [轻量级知乎爬虫工具](https://github.com/JANGFREEMAN/zhihu)：https://github.com/JANGFREEMAN/zhihu
+ - [轻量级表单验证插件](https://github.com/JANGFREEMAN/jqueryvalid)：https://github.com/JANGFREEMAN/jqueryvalid
+ - [jsRender简易教程](https://github.com/JANGFREEMAN/jsrender)：https://github.com/JANGFREEMAN/jsrender
+ - [博客系统](https://github.com/JANGFREEMAN/blog)：https://github.com/JANGFREEMAN/blog
 
 # 技能清单
 
