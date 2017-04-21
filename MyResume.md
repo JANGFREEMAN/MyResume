@@ -98,7 +98,7 @@
  - [轻量级表单验证插件](https://github.com/JANGFREEMAN/jqueryvalid)：https://github.com/JANGFREEMAN/jqueryvalid
  - [jsRender简易教程](https://github.com/JANGFREEMAN/jsrender)：https://github.com/JANGFREEMAN/jsrender
  - [博客系统](https://github.com/JANGFREEMAN/blog)：https://github.com/JANGFREEMAN/blog
- - [简单PRC框架](https://github.com/JANGFREEMAN/blog)：https://github.com/JANGFREEMAN/blog
+ - [简单PRC框架](https://github.com/JANGFREEMAN/http-rpc)：https://github.com/JANGFREEMAN/http-rpc
 
 # 技能清单
 
