@@ -21,7 +21,7 @@
 
 # 工作经历
 
-## 厦门搜企软件（实习）（ 2015年3月 ~ 2015年10月 ）
+## 厦门巨龙软件信息有限公司（ 2016年10月 ~ 至今 ）
 
 ### 移动电子名片项目
 项目描述:搜企名片是移动Web端的社交网站，为广大各行各业的用户提供了一个社交平台。提供在线聊天功能、社交朋友圈子、好友申请等便捷的功能。
@@ -34,7 +34,7 @@
      3.后台新功能模块的开发（聊天室功能、通讯录模块、好友申请等）
 
 
-## 欣欣旅游网 （ 2015年10月 ~ 2016年10月 ）
+## 欣欣旅游网有限公司 （ 2015年10月 ~ 2016年10月 ）
 
 ### T钱包
 项目描述:
@@ -75,38 +75,13 @@
      4.开发接口与定义接口文档（支付接口、退款接口、即时交易接口等）。
      5.运营平台权限控制管理。
 
-## 深圳易创艺乐（ 2016年10月 ~ 2017年4月 ）
-
-### ArtDen创艺平台
-项目描述:ArtDen是一个创艺平台，广大的艺术爱好者可以在这平台创发布创作，由平台来制作成兼具艺术与生活实用价值的产品。ArtDen也是一个电商平台，作为购买者可以购买创作者创作的商品。
-
-系统架构: NodeJs+Mysql+ReactJs
-
-主要职责：
-    1.根据新需求建的库表。
-    2.介入阿里图片上传接口处理平台图片，优化图片上传接口。
-    3.根据需求定义接口文档并开发接口。
-
----
-
-# 开源项目和作品
-
-
-## 开源项目
-
- - [轻量级知乎爬虫工具](https://github.com/JANGFREEMAN/zhihu)：https://github.com/JANGFREEMAN/zhihu
- - [轻量级表单验证插件](https://github.com/JANGFREEMAN/jqueryvalid)：https://github.com/JANGFREEMAN/jqueryvalid
- - [jsRender简易教程](https://github.com/JANGFREEMAN/jsrender)：https://github.com/JANGFREEMAN/jsrender
- - [博客系统](https://github.com/JANGFREEMAN/blog)：https://github.com/JANGFREEMAN/blog
- - [简单PRC框架](https://github.com/JANGFREEMAN/http-rpc)：https://github.com/JANGFREEMAN/http-rpc
-
 # 技能清单
 
 以下均为我熟练使用的技能
 
-- Web开发：Java/Node/JS
-- Web框架：Struts2/SpringMVC/MyBatis/Dubbo/zookeeper
-- 前端框架：Bootstrap/JsRender/Jquery/HTML5
+- Web框架：Struts2/SpringMVC/MyBatis/
+- 微服务：SpringCloud/SpringBoot/Dubbo/ZooKeeper
+- 前端框架：Vue/WebPack/Jquery/HTML5
 - 数据库相关：MySQL/Redis
 - 版本管理和自动化部署工具：Svn/Git/jenkins
 - 单元测试：Junit
