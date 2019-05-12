@@ -52,9 +52,14 @@
 
 ### 新一代服务接口系统
 
-项目描述: 
+项目描述: 新一代服务接口系统是根据公安部的业务需求开发符合规范的WebService接口，该系统根据系统业务划分提供人口查询接口/车辆查询接口/人口行踪轨迹接口等。在该项目中负责：
 
-系统架构: Spring Cloud+Spring Boot + Mysql +Redis
+1. 根据系统业务划分，将原有的单一应用微服务化，将系统解耦，提高系统可行性，便于系统维护与横向扩张。
+2. 微服务实例部署台，使用Ribbon作负载均衡。
+3. 服务是的安全控制，根据业务需求需要对服务接口做安全控制，基于Zuul网关实现。
+4. 提高系统稳定性，在高并发调用查询服务接口时，会出现服务'卡死'现象，使用Hystrix对服务做降级。
+
+系统架构: Spring Cloud+Spring Boot +Spring Jpa+ Mysql +Redis
 
 
 ## 欣欣旅游网有限公司 （ 2015年10月 ~ 2016年10月 ）
@@ -62,7 +67,7 @@
 ### 叮咚收款
 项目描述:
 
-系统架构：    dubbo+zookeeper+redis+Spring+struts2+ibatis+springSecurity
+系统架构：    dubbo+zookeeper+redis+Spring MVC+Mybatis+springSecurity
 
 # 技能清单
 
