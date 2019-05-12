@@ -24,21 +24,21 @@
 ## 厦门巨龙软件信息有限公司（ 2016年10月 ~ 至今 ）
 
 ### 资源服务总线
-项目描述:
+项目描述: 公安网建设，整合公安网内接口资源，提供给其他
 
-系统架构: SpringMvc+Mysql+JSP+Nodejs
+系统架构: SpringBoot+Mysql+Redis+Spring Interation+Zookeeper+RabbitMQ
 
 ### 请求服务系统
 
-项目描述:
+项目描述: 请求服务平台是应用系统与应用系统之间互操作的中介平台，实现不同应用对业务的透明操作
 
-系统架构: SpringMvc+Mysql+JSP+Nodejs
+系统架构: Spring Cloud+Spring Boot + Mysql +Redis
 
 ### 新一代服务接口系统
 
 项目描述:
 
-系统架构: SpringMvc+Mysql+JSP+Nodejs
+系统架构: Spring Cloud+Spring Boot + Mysql +Redis
 
 
 ## 欣欣旅游网有限公司 （ 2015年10月 ~ 2016年10月 ）
